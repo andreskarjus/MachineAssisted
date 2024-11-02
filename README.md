@@ -1,4 +1,4 @@
-Code to supplement Karjus 2023, "Machine-assisted mixed methods: augmenting humanities and social sciences with artificial intelligence".
+Code to supplement Karjus 2023, "Machine-assisted quantitizing designs: augmenting humanities and social sciences with artificial intelligence".
 
 Preprint: https://arxiv.org/abs/2309.14379 <br>
 Twitter/X explainer thread: https://twitter.com/AndresKarjus/status/1706959842227659112
